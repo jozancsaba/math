@@ -8,6 +8,17 @@
 	<version>1.0</version>
 	<name>math</name>
 	<url>http://www.inf.unideb.hu/~jeszy/progkorny/</url>
+    <licenses>
+        <license>
+            <name>Apache Maven License 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
+
+        </license>    
+    </licenses>
+    <inceptionYear>2015</inceptionYear>
+       
+
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
